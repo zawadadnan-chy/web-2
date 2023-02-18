@@ -1,0 +1,29 @@
+.head2{
+	background-color: seagreen;
+}
+
+.head1{
+	border: 4px solid blueviolet;
+}
+
+h2{
+	font-size: 21px;
+	background-color: royalblue;
+
+}
+
+.head3{
+	border: 5px dashed brown;
+	background-color: gray;
+}
+
+#top1{
+	border: 5.5px double rosybrown;
+	background-color: greenyellow;
+
+}
+
+
+h3{
+	border: 4.7px dotted darkblue;
+}
